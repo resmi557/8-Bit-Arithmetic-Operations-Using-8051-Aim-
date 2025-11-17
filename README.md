@@ -121,5 +121,4 @@ END
 The 8-bit arithmetic operations using the 8051 microcontroller have been successfully executed and verified using Keil software.
 
 
-The 8-bit arithmetic operations using the 8051 microcontroller have been successfully executed and verified using Keil software.
 
